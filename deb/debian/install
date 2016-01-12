@@ -1,0 +1,26 @@
+install/etc/xdg/autostart/clipit-startup.desktop /etc/xdg/autostart
+install/bin/clipit /usr/bin
+install/share/icons/hicolor/icon-theme.cache /usr/share/icons/hicolor
+install/share/icons/hicolor/scalable/apps/clipit-trayicon.svg /usr/share/icons/hicolor/scalable/apps
+install/share/applications/clipit.desktop /usr/share/applications
+install/share/locale/it/LC_MESSAGES/clipit.mo /usr/share/locale/it/LC_MESSAGES
+install/share/locale/es_ES/LC_MESSAGES/clipit.mo /usr/share/locale/es_ES/LC_MESSAGES
+install/share/locale/ja/LC_MESSAGES/clipit.mo /usr/share/locale/ja/LC_MESSAGES
+install/share/locale/hu/LC_MESSAGES/clipit.mo /usr/share/locale/hu/LC_MESSAGES
+install/share/locale/de/LC_MESSAGES/clipit.mo /usr/share/locale/de/LC_MESSAGES
+install/share/locale/cs/LC_MESSAGES/clipit.mo /usr/share/locale/cs/LC_MESSAGES
+install/share/locale/pl/LC_MESSAGES/clipit.mo /usr/share/locale/pl/LC_MESSAGES
+install/share/locale/es/LC_MESSAGES/clipit.mo /usr/share/locale/es/LC_MESSAGES
+install/share/locale/fr/LC_MESSAGES/clipit.mo /usr/share/locale/fr/LC_MESSAGES
+install/share/locale/pt_BR/LC_MESSAGES/clipit.mo /usr/share/locale/pt_BR/LC_MESSAGES
+install/share/locale/da/LC_MESSAGES/clipit.mo /usr/share/locale/da/LC_MESSAGES
+install/share/locale/ro/LC_MESSAGES/clipit.mo /usr/share/locale/ro/LC_MESSAGES
+install/share/locale/sv/LC_MESSAGES/clipit.mo /usr/share/locale/sv/LC_MESSAGES
+install/share/locale/ru/LC_MESSAGES/clipit.mo /usr/share/locale/ru/LC_MESSAGES
+install/share/locale/zh_CN/LC_MESSAGES/clipit.mo /usr/share/locale/zh_CN/LC_MESSAGES
+install/share/locale/nb/LC_MESSAGES/clipit.mo /usr/share/locale/nb/LC_MESSAGES
+install/share/locale/ca/LC_MESSAGES/clipit.mo /usr/share/locale/ca/LC_MESSAGES
+install/share/locale/tr/LC_MESSAGES/clipit.mo /usr/share/locale/tr/LC_MESSAGES
+install/share/locale/et/LC_MESSAGES/clipit.mo /usr/share/locale/et/LC_MESSAGES
+install/share/man/man1/clipit.1 /usr/share/man/man1
+

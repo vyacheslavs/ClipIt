@@ -1,0 +1,13 @@
+Source: clipy
+Section: misc
+Priority: optional
+Maintainer: S. Vyacheslav <k@canva.org>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.2
+
+
+Package: clipy
+Replaces: clipit
+Architecture: amd64
+Description: original clipit project
+ replaces and updates features
